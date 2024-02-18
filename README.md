@@ -6,11 +6,11 @@
 
 ## Introduction
 
-This project, conducted by TUNSA Space Robotics in preparation for the TICAD8 event, represents a pioneering effort in the realm of extraterrestrial construction technology. This endeavor aimed to design a robot capable of 3D-printing a lunar base using locally sourced materials, thus paving the way for sustainable and cost-effective lunar colonization.
+This project represents a pioneering effort in the realm of extraterrestrial construction technology. It aimed to design a robot capable of 3D-printing a lunar base using locally sourced materials, thus paving the way for sustainable and cost-effective lunar colonization.
 
 ## Project Scope
 
-The project spanned from August 12, 2022, to August 25, 2022, during which a multidisciplinary team collaborated to develop innovative solutions for lunar base construction. Led by Nesrine Abidi, the team explored cutting-edge techniques in robotics, additive manufacturing, and simulation to realize the vision of a self-sustaining lunar habitat.
+The project, conducted by TUNSA Space Robotics in preparation for the TICAD8 event, spanned from August 12, 2022, to August 25, 2022, during which a multidisciplinary team collaborated to develop innovative solutions for lunar base construction. Led by Nesrine Abidi, the team explored cutting-edge techniques in robotics, additive manufacturing, and simulation to realize the vision of a self-sustaining lunar habitat.
 
 ## Technical Details
 
@@ -21,7 +21,7 @@ The project spanned from August 12, 2022, to August 25, 2022, during which a mul
 
 ## Project Presentation
 
-For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [Project Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTsW1N3W1YSvEJk3JFrCracrbrgYmyUIAcd7KNhNLnCnoJQZnKR9SeIlvHqWr0Ynw/pub?start=false&loop=false&delayms=3000).
+For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [project presentation](https://docs.google.com/presentation/d/e/2PACX-1vTsW1N3W1YSvEJk3JFrCracrbrgYmyUIAcd7KNhNLnCnoJQZnKR9SeIlvHqWr0Ynw/pub?start=false&loop=false&delayms=3000).
 
 ## Contributing
 
@@ -37,4 +37,6 @@ For inquiries or collaboration opportunities, please contact:
 
 - Elyes Khechine: elyeskhechine@gmail.com
 - Nesrine Abidi: nesrineabidi766@gmail.com
+- Mohamed Aziz Laouiti: azizrocke@gmail.com
 - Malek Sghaier: malekshir00@gmail.com
+- Farah Gmati: gmatifarah99@gmail.com
